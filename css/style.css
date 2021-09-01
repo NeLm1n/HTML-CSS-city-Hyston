@@ -1,0 +1,70 @@
+body {
+    margin-left:auto;
+    margin-right:auto;
+    width: 70%;
+  }
+
+h1 {
+    color:black;
+    font-family: "Trebuchet MS";
+    font-size:x-large;
+    position: relative; 
+    font-size: 3em;
+  font-weight: 700;
+} 
+
+h2{
+    color:black;
+    font-family: "Trebuchet MS";
+    font-size: large;
+    position: relative;
+    font-size: 2em;
+  font-weight: 700;
+}
+
+h3 {
+    font-family: "Trebuchet MS";
+    font-size: medium;
+    position: relative;
+    font-size: 2em;
+  font-weight: 700;
+}
+
+p{
+    position: relative;
+    font-family: "Times New Roman, serif";
+    font-size: large;
+    font-weight: 300;
+}
+
+figure {
+    clear: right;
+    float: right;
+ }
+
+ ol {
+    position: relative;
+    font-family: "Times New Roman, serif";
+    font-size: large;
+    font-weight: 300;
+ }
+
+ table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 14px;
+    max-width: 70%;
+    width: 70%;
+    text-align: center;
+    border-collapse: collapse;
+    border-top: 7px solid #9baff1;
+    border-bottom: 7px solid #9baff1;
+  }
+  tr {
+    font-size: 13px;
+    font-weight: normal;
+    background: #e8edff;
+    border-right: 1px solid #9baff1;
+    border-left: 1px solid #9baff1;
+    color: rgb(8, 45, 253);
+    padding: 8px;
+  }
